@@ -69,13 +69,10 @@ Currently, I work as a **Performance Tester** in the banking industry in Indones
 >  26. 24000636 - CR Gap Feature Mandiri Cash Management 2.0 Phase 5 |Aug 2024| - **Skills:** LoadRunner (Web HTTP/HTML Protocol Script), C (Programming Language), Sitescope Monitoring, Ms. Excel, Ms. Word.
 >  27. 24000597 - Kopra Mid Term Beta 1 (Channel MCM & SCM) |Jun 2024 - Aug 2024| - **Skills:** LoadRunner (Web HTTP/HTML Protocol Script), C (Programming Language), Sitescope Monitoring, Grafana Monitoring, Kibana Tracking Error, Wire Mock, Ms. Excel, Ms. Word.
 >  28. 24000597 - Kopra Mid Term Beta 2 (Channel MCM & SCM) |Aug 2024 - Sep 2024| - **Skills:** LoadRunner (Web HTTP/HTML Protocol Script), C & Javascript (Programming Language), Sitescope Monitoring, Grafana Monitoring, Kibana Tracking Error, Wire Mock, Ms. Excel, Ms. Word.
->  29. 24000597 - Kopra Mid Term Beta 2 (Channel MCM & SCM) |Aug 2024 - Sep 2024| - **Skills:** LoadRunner (Web HTTP/HTML Protocol Script), C & Javascript (Programming Language), Sitescope Monitoring, Grafana Monitoring, Kibana Tracking Error, Wire Mock, Ms. Excel, Ms. Word.
 >  30. 24000597 - Kopra Mid Term Beta 3/Prod (Channel MCM & SCM) |Sep 2024| - **Skills:** LoadRunner (Web HTTP/HTML Protocol Script), C & Javascript (Programming Language), Sitescope Monitoring, Grafana Monitoring, Kibana Tracking Error, Wire Mock, Ms. Excel, Ms. Word.
 >  31. 24000950 - Kopra Mid Term (Channel MCM, SCM, & MGT) |Oct 2024 - Nov 2024| - **Skills:** LoadRunner (Web HTTP/HTML Protocol Script & Truclient Web Protocol Script), C & Javascript (Programming Language), Sitescope Monitoring, Grafana Monitoring, Kibana Tracking Error, Wire Mock, Ms. Excel, Ms. Word.
 >  32. 24000950 - Kopra Mid Term Prod (Channel MCM, SCM, & MGT) |Nov 2024 - Jan 2025| - **Skills:** LoadRunner (Web HTTP/HTML Protocol Script & Truclient Web Protocol Script), C & Javascript (Programming Language), Sitescope Monitoring, Grafana Monitoring, Kibana Tracking Error, Wire Mock, Ms. Excel, Ms. Word.
 >  33. 24000959 - CR Pengembangan Tools Converter Implementasi SWIFT ISO 20022 pada System Eximbils Enterprice |Jan 2025| - **Skills:** LoadRunner (Java Vuser Protocol Script), Java (Programming Language), Sitescope Monitoring, Ms. Excel, Ms. Word.
 >  34. 25000088 - Kopra Mid Term Release 3.0 |Feb 2025| - **Skills:** LoadRunner (Web HTTP/HTML Protocol Script), C & Javascript (Programming Language), Sitescope Monitoring, Grafana Monitoring, Kibana Tracking Error, Wire Mock, Ms. Excel, Ms. Word.
+>  35. 25000xxx - Kopra Mid Term Release 4.0 |Feb 2025 - Present| - **Skills:** LoadRunner (Web HTTP/HTML Protocol Script), C & Javascript (Programming Language), Sitescope Monitoring, Grafana Monitoring, Kibana Tracking Error, Wire Mock, Ms. Excel, Ms. Word.
      
-
-
-
