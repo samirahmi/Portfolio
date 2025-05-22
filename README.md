@@ -33,7 +33,7 @@ Currently, I work as a **Performance Tester** in the banking industry in Indones
 
 `Junior Performance Tester`
 🏦 `PT Bank Mandiri`
-🗓 `January 2023 - Present`
+🗓 `January 2023 - April 2025`
 
 - Designed and developed performance test scripts to simulate various workload conditions and validate system performance.
 - Executed scenario testing, including stress, load, and endurance tests, to evaluate system behavior under diverse operational scenarios.
@@ -74,5 +74,11 @@ Currently, I work as a **Performance Tester** in the banking industry in Indones
 >  32. 24000950 - Kopra Mid Term Prod (Channel MCM, SCM, & MGT) |Nov 2024 - Jan 2025| - **Skills:** LoadRunner (Web HTTP/HTML Protocol Script & Truclient Web Protocol Script), C & Javascript (Programming Language), Sitescope Monitoring, Grafana Monitoring, Kibana Tracking Error, Wire Mock, Ms. Excel, Ms. Word.
 >  33. 24000959 - CR Pengembangan Tools Converter Implementasi SWIFT ISO 20022 pada System Eximbils Enterprice |Jan 2025| - **Skills:** LoadRunner (Java Vuser Protocol Script), Java (Programming Language), Sitescope Monitoring, Ms. Excel, Ms. Word.
 >  34. 25000088 - Kopra Mid Term Release 3.0 |Feb 2025| - **Skills:** LoadRunner (Web HTTP/HTML Protocol Script), C & Javascript (Programming Language), Sitescope Monitoring, Grafana Monitoring, Kibana Tracking Error, Wire Mock, Ms. Excel, Ms. Word.
->  35. 25000xxx - Kopra Mid Term Release 4.0 |Feb 2025 - Present| - **Skills:** LoadRunner (Web HTTP/HTML Protocol Script), C & Javascript (Programming Language), Sitescope Monitoring, Grafana Monitoring, Kibana Tracking Error, Wire Mock, Ms. Excel, Ms. Word.
-     
+>  35. 25000154, 25000209, 25000266 - Kopra Mid Term Release 4.0 |Feb 2025 - 30 April 2025| - **Skills:** LoadRunner (Web HTTP/HTML Protocol Script), C & Javascript (Programming Language), Sitescope Monitoring, Grafana Monitoring, Kibana Tracking Error, Wire Mock, Ms. Excel, Ms. Word.
+
+`QA Engineer`
+🏦 `PT. Nawa Darsana Teknologi (Nawatech)`
+🗓 `May 2025 - Present`
+
+- Created test case
+- Created script automation with Katalon Studio
